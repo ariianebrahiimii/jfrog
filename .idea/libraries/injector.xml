@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="injector">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/injector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
